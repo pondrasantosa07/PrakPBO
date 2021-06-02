@@ -1,5 +1,5 @@
 package controlStatementProject;
-//Faadlilah Ahmad Purwanto-1197050034-C
+//Pondra Santosa Sablye-1197050106-C
 import java.util.Scanner;
 
 public class leapYearCalculator {
